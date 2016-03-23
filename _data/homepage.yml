@@ -57,21 +57,6 @@ letter:
     - paragraph: ""
     - paragraph: ""
 
-featuring:
-  title: "Featuring insights from:"
-  people:
-    - name: "Noah Kagan"
-      role: "Made $1M+ with the online course Monthly1k.com, Founder of AppSumo and <a href='http://sumome.com/' target='_blank'>SumoMe</a>"
-      image: "https://graph.facebook.com/noahkagan/picture?width=400&height=400"
-    - name: "Nathan Barry"
-      role: "Product Launch Specialist with $500K+ in educational product sales, Founder of ConvertKit"
-      image: "https://graph.facebook.com/nathanbarry/picture?width=400&height=400"
-    - name: "Vanessa van Edwards"
-      role: "Teaching Marketplaces Expert - CreativeLive, Udemy, PopExpert and Body Language Coach"
-      image: "https://pbs.twimg.com/profile_images/3176206326/d74353d28289633f09cf07301308cda6_400x400.jpeg"
-    - name: "David Kadavy"
-      role: "Best-selling author of <i>Design for Hackers</i> - #18 Amazon bestseller and video course"
-      image: "https://pbs.twimg.com/profile_images/1703248527/kadavy-twitter_400x400.png"
   bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
 
 bonuses:
